@@ -1,4 +1,4 @@
-# Fluid stimulation 
+# Fluid Simulation 
 
 This project is an interactive fluid simulation with real-time hand tracking using Computer Vision, OpenCV and NumPy. The simulation allows users to manipulate a 3D fluid cube with hand gestures captured from a webcam. Built by **HOSEN ARAFAT**, it opens your webcam, tracks one hand with MediaPipe, and injects energy into a 2D stable-fluid solver so it feels like you are stirring a cube filled with glowing fluid.
 
