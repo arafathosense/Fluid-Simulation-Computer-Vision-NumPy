@@ -70,7 +70,7 @@ python main.py
  
  **HOSEN ARAFAT** 
  
- **Repo:** https://github.com/arafathosense/Brain-Tumor-Detection-Data-Science
+ **Repo:** https://github.com/arafathosense/Fluid-Simulation-Computer-Vision-NumPy
  
 **If anyone wants a walkthrough or explanation, feel free to reach out!**
 
